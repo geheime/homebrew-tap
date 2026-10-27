@@ -1,6 +1,6 @@
 cask "bucket" do
-  version "0.4.1"
-  sha256 "58d7b2c3e4c4be457f2e9d12cdc16031ab253204312b69afc667930ead4606d3"
+  version "0.4.2"
+  sha256 "d2e4d2f4e8b4a2c59a1ae603c126350d8c808b437f0092dab0851697d1438db1"
 
   url "https://github.com/geheime/bucket/releases/download/v#{version}/Bucket-#{version}.zip"
   name "Bucket"
